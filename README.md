@@ -1,6 +1,6 @@
 # evansinho / README.md
 
-[evansinho](https://github.com/evansinho) | Patrick | [ProtonMail](igiri.evanson@gmail.com) | [Linkedin](https://linkedin.com/in/evanson-igiri)
+[evansinho](https://github.com/evansinho) | Evanson | [ProtonMail](igiri.evanson@gmail.com) | [Linkedin](https://linkedin.com/in/evanson-igiri)
 
 Full-Stack Engineer!  
 
