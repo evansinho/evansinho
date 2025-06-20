@@ -1,16 +1,15 @@
-## Hi there 👋
+# evansinho / README.md
 
-<!--
-**evansinho/evansinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[evansinho](https://github.com/evansinho) | Patrick | [ProtonMail](igiri.evanson@gmail.com) | [Linkedin](https://linkedin.com/in/evanson-igiri)
 
-Here are some ideas to get you started:
+Full-Stack Engineer!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Evanson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evansinho&show_icons=true&theme=dark)  
+
+**Total Stars Earned:**
+**Total Commits (2025):**  
+**Total PRs:**
+**Total Issues:**  
+**Contributed to (last year):** 0  
+
+C+
