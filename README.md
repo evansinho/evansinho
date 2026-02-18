@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Evanson Igiri
+# Hi there 👋 I'm Evanson
 
 ### Senior Full-Stack & AI Engineer  
 Distributed Systems • FinTech • AI-Powered Platforms
